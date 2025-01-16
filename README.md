@@ -4,11 +4,11 @@ Este proyecto consiste en la creación de una aplicación llamada literalura usa
 
 ## Tecnologías Utilizadas
 
-- ** Java ** 
-- ** Spring Data JPA ** 
-- ** PostgreSQL ** 
-- ** Jackson ** 
-- ** Maven ** 
+- **Java** 
+- **Spring Data JPA** 
+- **PostgreSQL** 
+- **Jackson** 
+- **Maven** 
 
 ## Funcionalidades 
 
